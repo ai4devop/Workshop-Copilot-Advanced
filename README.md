@@ -25,15 +25,15 @@ Copilot might prompt you to create a new workspace automatically. Alternatively,
 
 ### Code Generation  
 
-1) In the main file of your project, use inline Copilot Chat (`Ctrl + I`) to create a variable (`iInput1`) that prompts the user to enter an integer.  
+1) In the main file of your project, use inline Copilot Chat (`Ctrl + I`) to create a variable (`input1`) that prompts the user to enter an integer.  
 
 <details>  
     <summary>Click to reveal the solution</summary>  
-    Write in [Your-programming-language] a code snippet that takes an integer from the user and stores it in `iInput1`.  
+    Write in [Your-programming-language] a code snippet that takes an integer from the user and stores it in `input1`.  
 </details>  
 <br><br>
 
-2) Right below the newly created instruction, start typing `iInput2` and observe what happens.  
+2) Right below the newly created instruction, start typing `input2` and observe what happens.  
 Copilot will suggest an auto-completion in gray. It should generate another integer input request. If the suggestion is correct, press **Tab** to accept it.  
 <br><br>
 
@@ -66,7 +66,7 @@ Write a comment in natural language instructing the AI to summarize the inputs.
 </details>  
 <br><br>
 
-5) Now, use AI to translate the following Python code into your programming language.  
+5) Now, use AI to translate the following code into your language.  
 Add the AI-generated result to your code.  
 
 ```python  
@@ -120,7 +120,7 @@ input2 = 6
 Expected result = Error: division by zero  
 ```
 
-If the results are incorrect, call an admin.  
+If the results are incorrect, specify it to the AI.  
 <br><br>
 
 ### Maintainability  
