@@ -1,7 +1,7 @@
 # WORKSHOP AI4GEN: GitHub Copilot Advanced
 
 Welcome to this workshop on the different features of GitHub Copilot. It will show you how Copilot can assist you in your daily life as a developer.<br>You will discover various methods, shortcuts, and tips.<br>Ready? Let's go!  
-<br><br>
+<br>
 
 ## Prerequisites  
 - GitHub Copilot installed and ready in your IDE.  
