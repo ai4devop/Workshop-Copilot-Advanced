@@ -25,7 +25,7 @@ Copilot might prompt you to create a new workspace automatically. Alternatively,
 
 ### Code Generation  
 
-1) In the main file of your project, use inline Copilot Chat (`Ctrl + I`) to create a variable (`input1`) that prompts the user to enter an integer.  
+1) In the main file of your project, use inline Copilot Chat (On VScode : `Ctrl + I` or on IntelliJ : `Shift+Ctrl+G (Windows)` or `Shift+Ctrl+I (Mac)`) to create a variable (`input1`) that prompts the user to enter an integer.  
 
 <details>  
     <summary>Click to reveal the solution</summary>  
