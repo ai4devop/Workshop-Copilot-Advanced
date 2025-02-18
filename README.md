@@ -23,7 +23,7 @@ Prêt ? C'est parti ! 🎉
 </details>
 
 ### ⚛️ Générateur de code
-1. Dans le `main` de votre projet, utilisez le inline Copilot chat (`Ctrl + I`') pour créer une variable `iInput1` qui contiendra un entier venant de l'utilisateur.
+1. Dans le `main` de votre projet, utilisez le inline Copilot chat (Sur VScode : `Ctrl + I` ou sur IntelliJ : `Shift+Ctrl+G (Windows)` ou `Shift+Ctrl+I (Mac)`) pour créer une variable `iInput1` qui contiendra un entier venant de l'utilisateur.
 
       <details>
         <summary>Cliquez ici pour voir la solution</summary>
